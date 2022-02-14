@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SandeepSirProject\\Azure\\test\\SimpleApi.Tests\\SimpleApi.Tests.csproj": {}
+    "F:\\SandeepSirProject\\Azure\\test\\SimpleApi.tests\\SimpleApi.tests.csproj": {}
   },
   "projects": {
     "F:\\SandeepSirProject\\Azure\\SimpleApi\\SimpleApi.csproj": {
@@ -65,14 +65,14 @@
         }
       }
     },
-    "F:\\SandeepSirProject\\Azure\\test\\SimpleApi.Tests\\SimpleApi.Tests.csproj": {
+    "F:\\SandeepSirProject\\Azure\\test\\SimpleApi.tests\\SimpleApi.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SandeepSirProject\\Azure\\test\\SimpleApi.Tests\\SimpleApi.Tests.csproj",
-        "projectName": "SimpleApi.Tests",
-        "projectPath": "F:\\SandeepSirProject\\Azure\\test\\SimpleApi.Tests\\SimpleApi.Tests.csproj",
+        "projectUniqueName": "F:\\SandeepSirProject\\Azure\\test\\SimpleApi.tests\\SimpleApi.tests.csproj",
+        "projectName": "SimpleApi.tests",
+        "projectPath": "F:\\SandeepSirProject\\Azure\\test\\SimpleApi.tests\\SimpleApi.tests.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "F:\\SandeepSirProject\\Azure\\test\\SimpleApi.Tests\\obj\\",
+        "outputPath": "F:\\SandeepSirProject\\Azure\\test\\SimpleApi.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
